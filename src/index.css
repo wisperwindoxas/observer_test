@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+video{
+  width: 614px;
+  height: 875px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+
+.App{
+
+  width: 620px;
+  margin: 0 auto;
+}
